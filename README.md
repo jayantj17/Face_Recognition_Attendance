@@ -15,3 +15,5 @@ python main.py
 <b> Operating Systems </b> <br>
 This script is supported on Windows, Linux, and MacOS.
 
+<b>YouTube Demo Link</b><br>
+https://www.youtube.com/watch?v=gf5hjGZl6w8
