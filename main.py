@@ -98,7 +98,7 @@ def train():
     trainer.train(faces, le.transform(ids))
     trainer.write("training.yml")
 
-    print("[INFO] Training Done")
+    print("Training Done")
 
 
 
@@ -187,14 +187,12 @@ def recog():
                 names.append(entry[0])
 
             if name not in names:
-                print("test4")
                 now = datetime.now()
                 dateString = now.strftime('%H:%M:%S')
                 f.writelines(f'\n{name},{dateString}')
                 print("Attendance Marked")
                 s = "Attendance Marked"
             else:
-                print("test5")
                 s = "Attendance Already Marked"
         return s
     variable = ''
