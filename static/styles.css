@@ -1,0 +1,113 @@
+
+
+body {
+
+    background-color: #102A43;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    background-color: #829AB1;
+}
+hr{
+    border-color: #829AB1;
+}
+img{
+    width: 70px;
+    height: 70px;
+}
+.c-details span {
+    font-weight: 300;
+    font-size: 13px;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    background-color: #eee;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 39px;
+}
+
+.badge span {
+    background-color: #334E68;
+    width: 105px;
+    height: 25px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    display: flex;
+    color: #d4eaff;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    margin-bottom: 0%;
+    text-align: center;
+    background-color: #102A43;
+}
+h2{
+    text-align: center;
+}
+.progress {
+    height: 10px;
+    border-radius: 10px;
+}
+
+.progress div {
+    background-color: red;
+}
+
+.text1 {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.text2 {
+    color: #a5aec0;
+}
+.mb-0{
+    padding-left:  0.8em;
+}
+.heading{
+    text-align: center;
+    padding: 14px;
+    background-color: #829AB1;
+    margin-bottom: 0%;
+
+}
+.tbox{
+    background-color:#d4eaff;
+    padding: 6px;
+    margin: 1.6em;
+}
+
+
+.button {
+  border: none;
+  color: white;
+  padding: 16px 52px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+input{
+    background-color: #829AB1;
+    border: none;
+    border-color: #829AB1;
+}
+.b1 {
+
+  color: black;
+  border: 2px solid #102A43;
+
+  margin-top: 20px;
+}

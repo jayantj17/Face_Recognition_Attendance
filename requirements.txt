@@ -1,0 +1,5 @@
+Flask==2.0.3
+numpy==1.19.5
+Pillow==9.1.1
+scikit_learn==1.1.1
+opencv_contrib_python==4.5.5.62

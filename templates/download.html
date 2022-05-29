@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="static/styles.css">
+    <title>Name Submission</title>
+</head>
+<body>
+    <h1 class="b1" style="text-align:center; color:#829AB1;">Your file can be downloaded here.</h1>
+    <form  action="/download" method="POST">
+    <h2 style="background-color:#102A43; padding:10px;" ><a href="{{url_for('.download_file')}}"><input type="submit" value="Download" name="a4"></a></h2>
+    </form>
+
+</body>
+</html>
