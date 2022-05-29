@@ -1,5 +1,5 @@
 # FACE RECOGNITION ATTENDANCE SYSTEM
-This project makes use of Python, Flask and OpenCV for detecting faces, comparing it with the dataset and marking the attendance in a CSV File.<br>
+This project makes use of Python, Flask and OpenCV for detecting faces, comparing it with the dataset and marking the attendance in a CSV/Excel File.<br>
 CREATED BY: JAYANT JAIN
 
 
