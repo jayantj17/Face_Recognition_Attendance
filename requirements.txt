@@ -3,3 +3,4 @@ numpy==1.19.5
 Pillow
 scikit_learn==0.24.2
 opencv_contrib_python==4.5.5.62
+CMake==3.22.4
