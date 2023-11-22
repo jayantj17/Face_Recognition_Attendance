@@ -4,8 +4,12 @@ CREATED BY: JAYANT JAIN
 
 
 <b> HOW TO RUN THE CODE</b><br>
-Description: In the terminal window run main.py and click on localhost link and proceed.
+Create a new virtual environment and install the required dependencies by runnning the command
+<pre>
+pip install -r requirements.txt
+</pre>
 
+Description: In the terminal window run main.py and click on localhost link and proceed.
 <pre>
 python main.py
 </pre>
